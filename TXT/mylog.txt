@@ -3,3 +3,10 @@
 # LogCode + Description List
 ZCZC W00 10 L03 GitHub repository init
 ZCZC W00 5 L04 Initialize GitHub Pages
+ZCZC W00 100 L02 Offline class
+ZCZC W00 30 L02 Zoom class
+ZCZC W00 80 L31 Installing Debian
+ZCZC W00 30 L31 Dressing up VM
+ZCZC W00 15 L26 Generating keys and managing
+ZCZC W00 10 L27 Set up SSH for VM
+ZCZC W00 60 L22 Configuring bash and aliases
