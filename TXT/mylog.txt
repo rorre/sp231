@@ -10,3 +10,8 @@ ZCZC W00 30 L31 Dressing up VM
 ZCZC W00 15 L26 Generating keys and managing
 ZCZC W00 10 L27 Set up SSH for VM
 ZCZC W00 60 L22 Configuring bash and aliases
+ZCZC W01 100 L02 Offline class
+ZCZC W01 50 L11 Compiling kernel
+ZCZC W01 15 L11 Fixing myscript to adhere to spec
+ZCZC W01 60 L06 Reading about kernel compilation
+

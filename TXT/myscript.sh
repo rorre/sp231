@@ -1,7 +1,7 @@
 #!/bin/bash
 # Copyright (C) 2020-2023 Cicak Bin Kadal
 
-WEEK="00"
+WEEK="01"
 
 # This free document is distributed in the hope that it will be 
 # useful, but WITHOUT ANY WARRANTY; without even the implied 
@@ -28,11 +28,11 @@ RESDIR="$HOME/SP_RESULT/"
 pushd $RESDIR
 for II in W?? ; do
     [ -d $II ] || continue
-    TARFILE=my$II.tar.xz
+    TARFILE=my$II.tar.bz2
     TARFASC=$TARFILE.asc
     rm -vf $TARFILE $TARFASC
-    echo "tar cfJ $TARFILE $II/"
-    tar cfJ $TARFILE $II/
+    echo "tar cfj $TARFILE $II/"
+    tar cfj $TARFILE $II/
     echo "gpg --armor --output $TARFASC --encrypt --recipient $REC1 --recipient $REC2 $TARFILE"
     gpg --armor --output $TARFASC --encrypt --recipient $REC1 --recipient $REC2 $TARFILE
 done
