@@ -14,4 +14,5 @@ ZCZC W01 100 L02 Offline class
 ZCZC W01 50 L11 Compiling kernel
 ZCZC W01 15 L11 Fixing myscript to adhere to spec
 ZCZC W01 60 L06 Reading about kernel compilation
-
+ZCZC W01 40 L11 Updating kernel to 6.1.12
+ZCZC W01 30 L11 Doing W01 quiz
