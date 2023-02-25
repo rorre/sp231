@@ -16,3 +16,11 @@ ZCZC W01 15 L11 Fixing myscript to adhere to spec
 ZCZC W01 60 L06 Reading about kernel compilation
 ZCZC W01 40 L11 Updating kernel to 6.1.12
 ZCZC W01 30 L11 Doing W01 quiz
+ZCZC W02 100 L02 Offline class
+ZCZC W02 90 L12 LFS Chapter 1-4
+ZCZC W02 80 L12 LFS Chapter 5
+ZCZC W02 100 L12 LFS Chapter 6-7
+ZCZC W02 15 L02 Online class
+ZCZC W02 40 L21 Update kernel to 6.2
+ZCZC W02 50 L06 Reading about kernel
+ZCZC W02 15 L12 Working on quiz
