@@ -24,3 +24,9 @@ ZCZC W02 15 L02 Online class
 ZCZC W02 40 L21 Update kernel to 6.2
 ZCZC W02 50 L06 Reading about kernel
 ZCZC W02 15 L12 Working on quiz
+ZCZC W03 100 L02 Offline class
+ZCZC W03 60 L13 Kernel upgrade to 6.2.1
+ZCZC W03 90 L06 Reading about FUSE
+ZCZC W03 60 L13 Kernel upgrade to 6.2.2
+ZCZC W03 30 L13 Working on quiz
+ZCZC W03 30 L13 Working on pop quiz
