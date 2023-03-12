@@ -30,3 +30,9 @@ ZCZC W03 90 L06 Reading about FUSE
 ZCZC W03 60 L13 Kernel upgrade to 6.2.2
 ZCZC W03 30 L13 Working on quiz
 ZCZC W03 30 L13 Working on pop quiz
+ZCZC W04 100 L02 Offline class
+ZCZC W04 60 L14 Doing weekly assignment
+ZCZC W04 20 L22 Customizing aliases
+ZCZC W04 60 L22 Kernel upgrade to 6.2.5
+ZCZC W04 15 L14 Working on pop quiz
+ZCZC W04 90 L22 Customizing system
