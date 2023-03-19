@@ -36,3 +36,8 @@ ZCZC W04 20 L22 Customizing aliases
 ZCZC W04 60 L22 Kernel upgrade to 6.2.5
 ZCZC W04 15 L14 Working on pop quiz
 ZCZC W04 90 L22 Customizing system
+ZCZC W05 100 L02 Offline class
+ZCZC W05 75 L15 Weekly assignment
+ZCZC W05 60 L22 Kernel upgrade to 6.2.7
+ZCZC W05 20 L14 Working on pop quiz
+ZCZC W05 60 L22 Updating packages
