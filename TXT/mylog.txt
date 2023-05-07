@@ -50,3 +50,9 @@ ZCZC W07 100 L17 Weekly assignment halfway done
 ZCZC W07 60 L22 Kernel upgrade
 ZCZC W07 120 L17 Weekly assignment done
 ZCZC W07 30 L17 Work on pop quiz
+ZCZC W08 100 L02 Offline class
+ZCZC W08 60 L18 Working on hello01
+ZCZC W08 90 L06 Reading about kernel development
+ZCZC W08 80 L18 Working on hello02
+ZCZC W08 100 L18 Working on hello03
+ZCZC W08 50 L06 Reading about C
